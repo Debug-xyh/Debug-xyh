@@ -1,0 +1,16 @@
+{
+  "name": "Online_bazaar-",
+  "uuid": "f09262e8-9cea-4da4-af33-acacfa67341e",
+  "version": "3.6.0",
+  "creator": {
+    "version": "3.6.0"
+  },
+  "dependencies": {
+    "@types/node": "^18.7.18",
+    "k8w-extend-native": "^1.4.6",
+    "protobuf.js": "^1.1.2",
+    "socket.io-client": "^2.5.0",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {}
+}

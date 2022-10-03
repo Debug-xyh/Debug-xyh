@@ -1,0 +1,80 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "97963488-e168-462d-96de-acb2e8572c06",
+  "files": [],
+  "subMetas": {
+    "bdd7a": {
+      "importer": "gltf-mesh",
+      "uuid": "97963488-e168-462d-96de-acb2e8572c06@bdd7a",
+      "displayName": "",
+      "id": "bdd7a",
+      "name": "空白.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a22c7": {
+      "importer": "gltf-material",
+      "uuid": "97963488-e168-462d-96de-acb2e8572c06@a22c7",
+      "displayName": "",
+      "id": "a22c7",
+      "name": "材质.15.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d6fd5": {
+      "importer": "gltf-scene",
+      "uuid": "97963488-e168-462d-96de-acb2e8572c06@d6fd5",
+      "displayName": "",
+      "id": "d6fd5",
+      "name": "小广场.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "97963488-e168-462d-96de-acb2e8572c06@d6fd5",
+    "assetFinder": {
+      "meshes": [
+        "97963488-e168-462d-96de-acb2e8572c06@bdd7a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "97963488-e168-462d-96de-acb2e8572c06@a22c7"
+      ],
+      "scenes": [
+        "97963488-e168-462d-96de-acb2e8572c06@d6fd5"
+      ]
+    }
+  }
+}

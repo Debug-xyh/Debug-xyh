@@ -1,0 +1,67 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9ea7f6a9-1583-4b62-8d04-e1585671568c",
+  "files": [],
+  "subMetas": {
+    "b5075": {
+      "importer": "gltf-mesh",
+      "uuid": "9ea7f6a9-1583-4b62-8d04-e1585671568c@b5075",
+      "displayName": "",
+      "id": "b5075",
+      "name": "地面.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a133d": {
+      "importer": "gltf-scene",
+      "uuid": "9ea7f6a9-1583-4b62-8d04-e1585671568c@a133d",
+      "displayName": "",
+      "id": "a133d",
+      "name": "地面.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "9ea7f6a9-1583-4b62-8d04-e1585671568c@a133d",
+    "assetFinder": {
+      "meshes": [
+        "9ea7f6a9-1583-4b62-8d04-e1585671568c@b5075"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ce0a3b2a-530c-430d-8423-3ea7717f0b7e"
+      ],
+      "scenes": [
+        "9ea7f6a9-1583-4b62-8d04-e1585671568c@a133d"
+      ]
+    },
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/Bundle/Materials_地面",
+    "depthWriteInAlphaModeBlend": true
+  }
+}

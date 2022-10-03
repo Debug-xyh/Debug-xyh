@@ -1,0 +1,77 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "9401dadd-2249-4f90-8834-0f3fb45536f1",
+  "files": [],
+  "subMetas": {
+    "e10e4": {
+      "importer": "gltf-mesh",
+      "uuid": "9401dadd-2249-4f90-8834-0f3fb45536f1@e10e4",
+      "displayName": "",
+      "id": "e10e4",
+      "name": "立方体.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "22e2a": {
+      "importer": "gltf-material",
+      "uuid": "9401dadd-2249-4f90-8834-0f3fb45536f1@22e2a",
+      "displayName": "",
+      "id": "22e2a",
+      "name": "材质.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d115e": {
+      "importer": "gltf-scene",
+      "uuid": "9401dadd-2249-4f90-8834-0f3fb45536f1@d115e",
+      "displayName": "",
+      "id": "d115e",
+      "name": "入口坐凳2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "9401dadd-2249-4f90-8834-0f3fb45536f1@d115e",
+    "assetFinder": {
+      "meshes": [
+        "9401dadd-2249-4f90-8834-0f3fb45536f1@e10e4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9401dadd-2249-4f90-8834-0f3fb45536f1@22e2a"
+      ],
+      "scenes": [
+        "9401dadd-2249-4f90-8834-0f3fb45536f1@d115e"
+      ]
+    }
+  }
+}

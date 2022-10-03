@@ -1,0 +1,580 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a",
+  "files": [],
+  "subMetas": {
+    "68747": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@68747",
+      "displayName": "",
+      "id": "68747",
+      "name": "UnnamedImage-2.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72782": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@72782",
+      "displayName": "",
+      "id": "72782",
+      "name": "挤压.9-12.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "98516": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@98516",
+      "displayName": "",
+      "id": "98516",
+      "name": "挤压-材质.2-6.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4036": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@b4036",
+      "displayName": "",
+      "id": "b4036",
+      "name": "挤压.2-材质.1-0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1c7b": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@d1c7b",
+      "displayName": "",
+      "id": "d1c7b",
+      "name": "挤压.2-材质-1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b82d": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@4b82d",
+      "displayName": "",
+      "id": "4b82d",
+      "name": "挤压.1-2.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2bdff": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@2bdff",
+      "displayName": "",
+      "id": "2bdff",
+      "name": "挤压-材质.2-3.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "56bc5": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@56bc5",
+      "displayName": "",
+      "id": "56bc5",
+      "name": "挤压-材质.2-4.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "674a0": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@674a0",
+      "displayName": "",
+      "id": "674a0",
+      "name": "挤压-材质.2-5.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad80f": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@ad80f",
+      "displayName": "",
+      "id": "ad80f",
+      "name": "挤压-材质.2-7.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07a14": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@07a14",
+      "displayName": "",
+      "id": "07a14",
+      "name": "挤压-材质.2-8.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4425f": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@4425f",
+      "displayName": "",
+      "id": "4425f",
+      "name": "挤压-材质.2-9.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bddce": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@bddce",
+      "displayName": "",
+      "id": "bddce",
+      "name": "挤压.7-10.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c2f11": {
+      "importer": "gltf-mesh",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@c2f11",
+      "displayName": "",
+      "id": "c2f11",
+      "name": "挤压.8-11.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dd56": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@3dd56",
+      "displayName": "",
+      "id": "3dd56",
+      "name": "UnnamedImage-0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6ff4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@e6ff4",
+      "displayName": "",
+      "id": "e6ff4",
+      "name": "UnnamedImage-1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@3dd56"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@e6ff4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@68747"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "301f0": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@301f0",
+      "displayName": "",
+      "id": "301f0",
+      "name": "材质.1-0.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "20d7a": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@20d7a",
+      "displayName": "",
+      "id": "20d7a",
+      "name": "材质-1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c36c2": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@c36c2",
+      "displayName": "",
+      "id": "c36c2",
+      "name": "材质.2-2.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "67d91": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@67d91",
+      "displayName": "",
+      "id": "67d91",
+      "name": "材质.2-3.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0c2f": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@f0c2f",
+      "displayName": "",
+      "id": "f0c2f",
+      "name": "材质.2-4.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5502a": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@5502a",
+      "displayName": "",
+      "id": "5502a",
+      "name": "材质.2-5.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b748e": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@b748e",
+      "displayName": "",
+      "id": "b748e",
+      "name": "材质.2-6.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "319d1": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@319d1",
+      "displayName": "",
+      "id": "319d1",
+      "name": "材质.3-7.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9e35": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@b9e35",
+      "displayName": "",
+      "id": "b9e35",
+      "name": "材质.3-8.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0c53": {
+      "importer": "gltf-material",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@c0c53",
+      "displayName": "",
+      "id": "c0c53",
+      "name": "材质.2-9.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7fb31": {
+      "importer": "gltf-scene",
+      "uuid": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@7fb31",
+      "displayName": "",
+      "id": "7fb31",
+      "name": "置物架.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@3dd56"
+      },
+      {
+        "uri": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@e6ff4"
+      },
+      {
+        "uri": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@68747"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@7fb31",
+    "assetFinder": {
+      "meshes": [
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@b4036",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@d1c7b",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@4b82d",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@2bdff",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@56bc5",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@674a0",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@98516",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@ad80f",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@07a14",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@4425f",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@bddce",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@c2f11",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@72782"
+      ],
+      "skeletons": [],
+      "textures": [
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@3effa",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@221a5",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@0089c"
+      ],
+      "materials": [
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@301f0",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@20d7a",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@c36c2",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@67d91",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@f0c2f",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@5502a",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@b748e",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@319d1",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@b9e35",
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@c0c53"
+      ],
+      "scenes": [
+        "e0d1d959-9de7-48d7-9f1e-805be5bd0f0a@7fb31"
+      ]
+    }
+  }
+}

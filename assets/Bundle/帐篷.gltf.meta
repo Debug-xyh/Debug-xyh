@@ -1,0 +1,95 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e623ce80-28ea-4696-a4f7-86f935367f5f",
+  "files": [],
+  "subMetas": {
+    "e1c02": {
+      "importer": "gltf-mesh",
+      "uuid": "e623ce80-28ea-4696-a4f7-86f935367f5f@e1c02",
+      "displayName": "",
+      "id": "e1c02",
+      "name": "圆柱.8.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3a837": {
+      "importer": "gltf-mesh",
+      "uuid": "e623ce80-28ea-4696-a4f7-86f935367f5f@3a837",
+      "displayName": "",
+      "id": "3a837",
+      "name": "圆柱.8-材质.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "22e2a": {
+      "importer": "gltf-material",
+      "uuid": "e623ce80-28ea-4696-a4f7-86f935367f5f@22e2a",
+      "displayName": "",
+      "id": "22e2a",
+      "name": "材质.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73c7a": {
+      "importer": "gltf-scene",
+      "uuid": "e623ce80-28ea-4696-a4f7-86f935367f5f@73c7a",
+      "displayName": "",
+      "id": "73c7a",
+      "name": "帐篷.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "e623ce80-28ea-4696-a4f7-86f935367f5f@73c7a",
+    "assetFinder": {
+      "meshes": [
+        "e623ce80-28ea-4696-a4f7-86f935367f5f@e1c02",
+        "e623ce80-28ea-4696-a4f7-86f935367f5f@3a837"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e623ce80-28ea-4696-a4f7-86f935367f5f@22e2a"
+      ],
+      "scenes": [
+        "e623ce80-28ea-4696-a4f7-86f935367f5f@73c7a"
+      ]
+    }
+  }
+}
