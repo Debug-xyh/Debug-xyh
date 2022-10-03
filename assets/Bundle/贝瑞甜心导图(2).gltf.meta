@@ -1,0 +1,1915 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946",
+  "files": [],
+  "subMetas": {
+    "12925": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@12925",
+      "displayName": "",
+      "id": "12925",
+      "name": "立方体.1-24.mesh",
+      "userData": {
+        "gltfIndex": 24
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "14741": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@14741",
+      "displayName": "",
+      "id": "14741",
+      "name": "套盒顶部-12.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "26331": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@26331",
+      "displayName": "",
+      "id": "26331",
+      "name": "立方体.2-酒瓶-44.mesh",
+      "userData": {
+        "gltfIndex": 44
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "27711": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@27711",
+      "displayName": "",
+      "id": "27711",
+      "name": "瓶子顶部-1.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "41896": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@41896",
+      "displayName": "",
+      "id": "41896",
+      "name": "UnnamedImage-7.image",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "43694": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@43694",
+      "displayName": "",
+      "id": "43694",
+      "name": "立方体-盒子橙色-51.mesh",
+      "userData": {
+        "gltfIndex": 51
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "45752": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@45752",
+      "displayName": "",
+      "id": "45752",
+      "name": "贝瑞海报.1-9.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "47354": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@47354",
+      "displayName": "",
+      "id": "47354",
+      "name": "UnnamedImage-10.image",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48765": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@48765",
+      "displayName": "",
+      "id": "48765",
+      "name": "立方体.2-28.mesh",
+      "userData": {
+        "gltfIndex": 28
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "50743": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@50743",
+      "displayName": "",
+      "id": "50743",
+      "name": "UnnamedTexture-5.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@932e8"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51066": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@51066",
+      "displayName": "",
+      "id": "51066",
+      "name": "圆柱.5-4.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68747": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@68747",
+      "displayName": "",
+      "id": "68747",
+      "name": "UnnamedImage-2.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "68764": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@68764",
+      "displayName": "",
+      "id": "68764",
+      "name": "贝瑞海报.1-15.material",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70624": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@70624",
+      "displayName": "",
+      "id": "70624",
+      "name": "盒子橙色-14.material",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78529": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@78529",
+      "displayName": "",
+      "id": "78529",
+      "name": "立方体.1-套盒顶部-47.mesh",
+      "userData": {
+        "gltfIndex": 47
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "90200": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@90200",
+      "displayName": "",
+      "id": "90200",
+      "name": "立方体.2-21.mesh",
+      "userData": {
+        "gltfIndex": 21
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9ebea": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9ebea",
+      "displayName": "",
+      "id": "9ebea",
+      "name": "桌椅-材质-0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72b1a": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@72b1a",
+      "displayName": "",
+      "id": "72b1a",
+      "name": "圆柱.2-1.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "322f6": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@322f6",
+      "displayName": "",
+      "id": "322f6",
+      "name": "圆柱.3-2.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "02b09": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@02b09",
+      "displayName": "",
+      "id": "02b09",
+      "name": "圆柱.4-3.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0a504": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@0a504",
+      "displayName": "",
+      "id": "0a504",
+      "name": "圆柱.2-5.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2f2c9": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2f2c9",
+      "displayName": "",
+      "id": "2f2c9",
+      "name": "圆柱.3-6.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d1de": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@7d1de",
+      "displayName": "",
+      "id": "7d1de",
+      "name": "圆柱.4-7.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e0fdf": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e0fdf",
+      "displayName": "",
+      "id": "e0fdf",
+      "name": "圆柱.5-8.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e394a": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e394a",
+      "displayName": "",
+      "id": "e394a",
+      "name": "圆柱.2-9.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2989d": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2989d",
+      "displayName": "",
+      "id": "2989d",
+      "name": "圆柱.3-10.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18b8b": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@18b8b",
+      "displayName": "",
+      "id": "18b8b",
+      "name": "圆柱.4-11.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "12a5f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@12a5f",
+      "displayName": "",
+      "id": "12a5f",
+      "name": "圆柱.5-12.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46f9f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@46f9f",
+      "displayName": "",
+      "id": "46f9f",
+      "name": "圆柱.4-13.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5620": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c5620",
+      "displayName": "",
+      "id": "c5620",
+      "name": "圆柱.5-14.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cfd1d": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@cfd1d",
+      "displayName": "",
+      "id": "cfd1d",
+      "name": "圆柱.4-15.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c384": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6c384",
+      "displayName": "",
+      "id": "6c384",
+      "name": "圆柱.5-16.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a664": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@5a664",
+      "displayName": "",
+      "id": "5a664",
+      "name": "立方体-17.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dafc": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3dafc",
+      "displayName": "",
+      "id": "3dafc",
+      "name": "货架-18.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a0111": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@a0111",
+      "displayName": "",
+      "id": "a0111",
+      "name": "立方体.1-盒子青色-19.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a05a": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6a05a",
+      "displayName": "",
+      "id": "6a05a",
+      "name": "立方体.1-瓶子顶部-20.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5410": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c5410",
+      "displayName": "",
+      "id": "c5410",
+      "name": "立方体-22.mesh",
+      "userData": {
+        "gltfIndex": 22
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6acd3": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6acd3",
+      "displayName": "",
+      "id": "6acd3",
+      "name": "货架-23.mesh",
+      "userData": {
+        "gltfIndex": 23
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5cad": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c5cad",
+      "displayName": "",
+      "id": "c5cad",
+      "name": "立方体.1-瓶身2-25.mesh",
+      "userData": {
+        "gltfIndex": 25
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "999e2": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@999e2",
+      "displayName": "",
+      "id": "999e2",
+      "name": "立方体.1-盒子蓝色-26.mesh",
+      "userData": {
+        "gltfIndex": 26
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "833ee": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@833ee",
+      "displayName": "",
+      "id": "833ee",
+      "name": "立方体.1-瓶子顶部-27.mesh",
+      "userData": {
+        "gltfIndex": 27
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8e20": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d8e20",
+      "displayName": "",
+      "id": "d8e20",
+      "name": "展板4-贝瑞海报-29.mesh",
+      "userData": {
+        "gltfIndex": 29
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aba3f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@aba3f",
+      "displayName": "",
+      "id": "aba3f",
+      "name": "展板4-招牌架子-30.mesh",
+      "userData": {
+        "gltfIndex": 30
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d937": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9d937",
+      "displayName": "",
+      "id": "9d937",
+      "name": "展板4.1-贝瑞海报.1-31.mesh",
+      "userData": {
+        "gltfIndex": 31
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d93": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@73d93",
+      "displayName": "",
+      "id": "73d93",
+      "name": "展板4.1-招牌架子-32.mesh",
+      "userData": {
+        "gltfIndex": 32
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "dfea7": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@dfea7",
+      "displayName": "",
+      "id": "dfea7",
+      "name": "货架-33.mesh",
+      "userData": {
+        "gltfIndex": 33
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "51e22": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@51e22",
+      "displayName": "",
+      "id": "51e22",
+      "name": "立方体.1-34.mesh",
+      "userData": {
+        "gltfIndex": 34
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bac75": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@bac75",
+      "displayName": "",
+      "id": "bac75",
+      "name": "立方体.1-酒瓶顶部-35.mesh",
+      "userData": {
+        "gltfIndex": 35
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "416b5": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@416b5",
+      "displayName": "",
+      "id": "416b5",
+      "name": "立方体.1-酒瓶-36.mesh",
+      "userData": {
+        "gltfIndex": 36
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b5ea": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3b5ea",
+      "displayName": "",
+      "id": "3b5ea",
+      "name": "立方体.1-酒瓶顶部-37.mesh",
+      "userData": {
+        "gltfIndex": 37
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ecbc8": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@ecbc8",
+      "displayName": "",
+      "id": "ecbc8",
+      "name": "立方体-38.mesh",
+      "userData": {
+        "gltfIndex": 38
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c62a0": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c62a0",
+      "displayName": "",
+      "id": "c62a0",
+      "name": "立方体-酒瓶顶部-39.mesh",
+      "userData": {
+        "gltfIndex": 39
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1a698": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1a698",
+      "displayName": "",
+      "id": "1a698",
+      "name": "立方体-酒瓶-40.mesh",
+      "userData": {
+        "gltfIndex": 40
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bbb39": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@bbb39",
+      "displayName": "",
+      "id": "bbb39",
+      "name": "立方体-酒瓶顶部-41.mesh",
+      "userData": {
+        "gltfIndex": 41
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bc53c": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@bc53c",
+      "displayName": "",
+      "id": "bc53c",
+      "name": "立方体.2-42.mesh",
+      "userData": {
+        "gltfIndex": 42
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1af07": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1af07",
+      "displayName": "",
+      "id": "1af07",
+      "name": "立方体.2-酒瓶顶部-43.mesh",
+      "userData": {
+        "gltfIndex": 43
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2858a": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2858a",
+      "displayName": "",
+      "id": "2858a",
+      "name": "立方体.2-酒瓶顶部-45.mesh",
+      "userData": {
+        "gltfIndex": 45
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "244a9": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@244a9",
+      "displayName": "",
+      "id": "244a9",
+      "name": "货架-46.mesh",
+      "userData": {
+        "gltfIndex": 46
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d4e0": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6d4e0",
+      "displayName": "",
+      "id": "6d4e0",
+      "name": "立方体.1-酒套盒-48.mesh",
+      "userData": {
+        "gltfIndex": 48
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "35d9f": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@35d9f",
+      "displayName": "",
+      "id": "35d9f",
+      "name": "立方体-49.mesh",
+      "userData": {
+        "gltfIndex": 49
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3d2c6": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3d2c6",
+      "displayName": "",
+      "id": "3d2c6",
+      "name": "立方体-酒瓶顶部-50.mesh",
+      "userData": {
+        "gltfIndex": 50
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b21b1": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b21b1",
+      "displayName": "",
+      "id": "b21b1",
+      "name": "立方体-黄色-52.mesh",
+      "userData": {
+        "gltfIndex": 52
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a0d7c": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@a0d7c",
+      "displayName": "",
+      "id": "a0d7c",
+      "name": "立方体.2-53.mesh",
+      "userData": {
+        "gltfIndex": 53
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0aea9": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@0aea9",
+      "displayName": "",
+      "id": "0aea9",
+      "name": "立方体.2-酒瓶顶部-54.mesh",
+      "userData": {
+        "gltfIndex": 54
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f672": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1f672",
+      "displayName": "",
+      "id": "1f672",
+      "name": "立方体.2-盒子橙色-55.mesh",
+      "userData": {
+        "gltfIndex": 55
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ebcd1": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@ebcd1",
+      "displayName": "",
+      "id": "ebcd1",
+      "name": "立方体.2-黄色-56.mesh",
+      "userData": {
+        "gltfIndex": 56
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a1368": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@a1368",
+      "displayName": "",
+      "id": "a1368",
+      "name": "展板4.2-贝瑞海报.1-57.mesh",
+      "userData": {
+        "gltfIndex": 57
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79f49": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@79f49",
+      "displayName": "",
+      "id": "79f49",
+      "name": "展板4.2-招牌架子-58.mesh",
+      "userData": {
+        "gltfIndex": 58
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8fc33": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@8fc33",
+      "displayName": "",
+      "id": "8fc33",
+      "name": "展板4.3-logo-59.mesh",
+      "userData": {
+        "gltfIndex": 59
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9751": {
+      "importer": "gltf-mesh",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b9751",
+      "displayName": "",
+      "id": "b9751",
+      "name": "展板4.3-招牌架子-60.mesh",
+      "userData": {
+        "gltfIndex": 60
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dd56": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3dd56",
+      "displayName": "",
+      "id": "3dd56",
+      "name": "UnnamedImage-0.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e6ff4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e6ff4",
+      "displayName": "",
+      "id": "e6ff4",
+      "name": "UnnamedImage-1.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fb88e": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@fb88e",
+      "displayName": "",
+      "id": "fb88e",
+      "name": "UnnamedImage-3.image",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9739b": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9739b",
+      "displayName": "",
+      "id": "9739b",
+      "name": "UnnamedImage-4.image",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "932e8": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@932e8",
+      "displayName": "",
+      "id": "932e8",
+      "name": "UnnamedImage-5.image",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5800d": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@5800d",
+      "displayName": "",
+      "id": "5800d",
+      "name": "UnnamedImage-6.image",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e83f2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e83f2",
+      "displayName": "",
+      "id": "e83f2",
+      "name": "UnnamedImage-8.image",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8a4a": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d8a4a",
+      "displayName": "",
+      "id": "d8a4a",
+      "name": "UnnamedImage-9.image",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3dd56"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e6ff4"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@68747"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b633": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9b633",
+      "displayName": "",
+      "id": "9b633",
+      "name": "UnnamedTexture-3.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@fb88e"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9b782": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9b782",
+      "displayName": "",
+      "id": "9b782",
+      "name": "UnnamedTexture-4.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9739b"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "99ea5": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@99ea5",
+      "displayName": "",
+      "id": "99ea5",
+      "name": "UnnamedTexture-6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@5800d"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "006bd": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@006bd",
+      "displayName": "",
+      "id": "006bd",
+      "name": "UnnamedTexture-7.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@41896"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "531b0": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@531b0",
+      "displayName": "",
+      "id": "531b0",
+      "name": "UnnamedTexture-8.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e83f2"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9c3d2": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9c3d2",
+      "displayName": "",
+      "id": "9c3d2",
+      "name": "UnnamedTexture-9.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d8a4a"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7e17": {
+      "importer": "texture",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@f7e17",
+      "displayName": "",
+      "id": "f7e17",
+      "name": "UnnamedTexture-10.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@47354"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "430d9": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@430d9",
+      "displayName": "",
+      "id": "430d9",
+      "name": "材质-0.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2aa13": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2aa13",
+      "displayName": "",
+      "id": "2aa13",
+      "name": "瓶身1-2.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e3146": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e3146",
+      "displayName": "",
+      "id": "e3146",
+      "name": "盒子青色-3.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6cf06": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6cf06",
+      "displayName": "",
+      "id": "6cf06",
+      "name": "黄色-4.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5a01": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e5a01",
+      "displayName": "",
+      "id": "e5a01",
+      "name": "盒子蓝色-5.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "25ebc": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@25ebc",
+      "displayName": "",
+      "id": "25ebc",
+      "name": "瓶身2-6.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df9a8": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@df9a8",
+      "displayName": "",
+      "id": "df9a8",
+      "name": "贝瑞海报-7.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1c98f": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1c98f",
+      "displayName": "",
+      "id": "1c98f",
+      "name": "招牌架子-8.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "290a7": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@290a7",
+      "displayName": "",
+      "id": "290a7",
+      "name": "酒瓶顶部-10.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3f02e": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3f02e",
+      "displayName": "",
+      "id": "3f02e",
+      "name": "酒瓶-11.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3b79a": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3b79a",
+      "displayName": "",
+      "id": "3b79a",
+      "name": "酒套盒-13.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d3bf1": {
+      "importer": "gltf-material",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d3bf1",
+      "displayName": "",
+      "id": "d3bf1",
+      "name": "logo-16.material",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7760": {
+      "importer": "gltf-scene",
+      "uuid": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b7760",
+      "displayName": "",
+      "id": "b7760",
+      "name": "贝瑞甜心导图(2).prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3dd56"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e6ff4"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@68747"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@fb88e"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9739b"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@932e8"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@5800d"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@41896"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e83f2"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d8a4a"
+      },
+      {
+        "uri": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@47354"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b7760",
+    "assetFinder": {
+      "meshes": [
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9ebea",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@72b1a",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@322f6",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@02b09",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@51066",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@0a504",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2f2c9",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@7d1de",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e0fdf",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e394a",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2989d",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@18b8b",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@12a5f",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@46f9f",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c5620",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@cfd1d",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6c384",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@5a664",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3dafc",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@a0111",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6a05a",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@90200",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c5410",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6acd3",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@12925",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c5cad",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@999e2",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@833ee",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@48765",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d8e20",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@aba3f",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9d937",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@73d93",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@dfea7",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@51e22",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@bac75",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@416b5",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3b5ea",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@ecbc8",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@c62a0",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1a698",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@bbb39",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@bc53c",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1af07",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@26331",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2858a",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@244a9",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@78529",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6d4e0",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@35d9f",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3d2c6",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@43694",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b21b1",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@a0d7c",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@0aea9",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1f672",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@ebcd1",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@a1368",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@79f49",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@8fc33",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b9751"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3effa",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@221a5",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@0089c",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9b633",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9b782",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@50743",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@99ea5",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@006bd",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@531b0",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@9c3d2",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@f7e17"
+      ],
+      "materials": [
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@430d9",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@27711",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@2aa13",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e3146",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@6cf06",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@e5a01",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@25ebc",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@df9a8",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@1c98f",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@45752",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@290a7",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3f02e",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@14741",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@3b79a",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@70624",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@68764",
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@d3bf1"
+      ],
+      "scenes": [
+        "3f90a451-e18d-4bd8-b1e4-4e30eb739946@b7760"
+      ]
+    }
+  }
+}

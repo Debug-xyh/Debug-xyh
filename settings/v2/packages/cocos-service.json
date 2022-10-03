@@ -1,13 +1,17 @@
 {
   "game": {
-    "name": "未知游戏",
-    "app_id": "UNKNOW",
-    "c_id": "0"
+    "app_id": "624617518",
+    "c_id": "0",
+    "name": "Fly"
   },
   "appConfigMaps": [
     {
       "app_id": "UNKNOW",
       "config_id": "5b732c"
+    },
+    {
+      "app_id": "624617518",
+      "config_id": "838bfa"
     }
   ],
   "configs": [
@@ -17,6 +21,24 @@
       "config_name": "Default",
       "config_remarks": "",
       "services": []
+    },
+    {
+      "app_id": "624617518",
+      "config_id": "838bfa",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "278",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "314",
+          "enable": false,
+          "param": {}
+        }
+      ]
     }
   ],
   "__version__": "3.0.4"

@@ -17,7 +17,7 @@ export class FollowCamera extends Component {
     speedFactor: number = 0.05;
 
     @property
-    private _distance: number = 70;
+    private _distance: number = 25;
     @property
     public get distance (): number {
         return this._distance;

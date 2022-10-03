@@ -1,3 +1,4 @@
+
 export interface ReqJoinRoom extends BaseRequest {
     nickname: string,
     roomId: string
@@ -15,9 +16,6 @@ export const conf: BaseConf = {
 export interface RoomData {
     id: string,
     name: string,
-    /** 房间可容纳的最大人数 */
-    maxUser: number,
-    /** 房间内的用户 */
     users: (UserInfo & { color: { r: 191, g: 209, b: 178 } })[],
     /** 历史消息（只保留最近的 N 条） */
     messages: {
@@ -27,6 +25,7 @@ export interface RoomData {
     }[],
 }
 
+
 export interface UserInfo {
     id: string,
     nickname: string
@@ -34,6 +33,7 @@ export interface UserInfo {
 
 export interface RoomUserState {
     uid: string,
+    name: string,
     pos: {
         x: number,
         y: number,
@@ -57,10 +57,25 @@ export const xxx = () => {
     return Math.floor(Math.random() * 255 + 1)
 }
 
+export interface MsgUserStates {
+    userStates: {
+        [uid: string]: RoomUserState
+    }
+}
+
+export interface ReqJoinRoom extends BaseRequest {
+    nickname: string,
+    roomId: string
+}
+
+export interface ResJoinRoom extends BaseResponse {
+    currentUser: UserInfo,
+    roomData: RoomData
+}
 
 
 
-export type PlayerAniState = 'idle' | 'walking' | 'wave' | 'punch' | 'dance';
+export type PlayerAniState = 'idle' | 'walking' | 'wave' | 'punch' | 'dance' | '';
 
 
 export interface BaseRequest {

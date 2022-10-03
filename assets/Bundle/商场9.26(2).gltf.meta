@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "dcd64338-a37b-406a-bc18-24fef62fc0b4",
+  "files": [],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "dcd64338-a37b-406a-bc18-24fef62fc0b4@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2a72a": {
+      "importer": "gltf-mesh",
+      "uuid": "dcd64338-a37b-406a-bc18-24fef62fc0b4@2a72a",
+      "displayName": "",
+      "id": "2a72a",
+      "name": "挤压.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "dcd64338-a37b-406a-bc18-24fef62fc0b4@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "dcd64338-a37b-406a-bc18-24fef62fc0b4@40586"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "22e2a": {
+      "importer": "gltf-material",
+      "uuid": "dcd64338-a37b-406a-bc18-24fef62fc0b4@22e2a",
+      "displayName": "",
+      "id": "22e2a",
+      "name": "材质.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b00b7": {
+      "importer": "gltf-scene",
+      "uuid": "dcd64338-a37b-406a-bc18-24fef62fc0b4@b00b7",
+      "displayName": "",
+      "id": "b00b7",
+      "name": "商场9.26(2).prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "dcd64338-a37b-406a-bc18-24fef62fc0b4@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "dcd64338-a37b-406a-bc18-24fef62fc0b4@b00b7",
+    "assetFinder": {
+      "meshes": [
+        "dcd64338-a37b-406a-bc18-24fef62fc0b4@2a72a"
+      ],
+      "skeletons": [],
+      "textures": [
+        "dcd64338-a37b-406a-bc18-24fef62fc0b4@e39f7"
+      ],
+      "materials": [
+        "dcd64338-a37b-406a-bc18-24fef62fc0b4@22e2a"
+      ],
+      "scenes": [
+        "dcd64338-a37b-406a-bc18-24fef62fc0b4@b00b7"
+      ]
+    }
+  }
+}

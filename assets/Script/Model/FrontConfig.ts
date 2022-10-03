@@ -1,4 +1,4 @@
 export const FrontConfig = {
     // matchServer: 'https://k8w.cn/match-server/',
-    matchServer: 'https://online-market.cella.fun/',
+    matchServer: 'wss://online-market.cella.fun/',
 }

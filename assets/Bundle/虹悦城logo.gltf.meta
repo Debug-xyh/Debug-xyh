@@ -1,0 +1,158 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a6568919-8f09-449a-856a-1163a5a773e1",
+  "files": [],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "da857": {
+      "importer": "gltf-mesh",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@da857",
+      "displayName": "",
+      "id": "da857",
+      "name": "立方体-材质.1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8d6e": {
+      "importer": "gltf-mesh",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@c8d6e",
+      "displayName": "",
+      "id": "c8d6e",
+      "name": "立方体-材质.2.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a6568919-8f09-449a-856a-1163a5a773e1@40586"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9aeec": {
+      "importer": "gltf-material",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@9aeec",
+      "displayName": "",
+      "id": "9aeec",
+      "name": "材质.1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ed9a5": {
+      "importer": "gltf-material",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@ed9a5",
+      "displayName": "",
+      "id": "ed9a5",
+      "name": "材质.2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f123": {
+      "importer": "gltf-scene",
+      "uuid": "a6568919-8f09-449a-856a-1163a5a773e1@9f123",
+      "displayName": "",
+      "id": "9f123",
+      "name": "虹悦城logo.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "a6568919-8f09-449a-856a-1163a5a773e1@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "a6568919-8f09-449a-856a-1163a5a773e1@9f123",
+    "assetFinder": {
+      "meshes": [
+        "a6568919-8f09-449a-856a-1163a5a773e1@da857",
+        "a6568919-8f09-449a-856a-1163a5a773e1@c8d6e"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a6568919-8f09-449a-856a-1163a5a773e1@e39f7"
+      ],
+      "materials": [
+        "a6568919-8f09-449a-856a-1163a5a773e1@9aeec",
+        "a6568919-8f09-449a-856a-1163a5a773e1@ed9a5"
+      ],
+      "scenes": [
+        "a6568919-8f09-449a-856a-1163a5a773e1@9f123"
+      ]
+    }
+  }
+}

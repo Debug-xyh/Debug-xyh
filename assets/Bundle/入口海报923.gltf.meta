@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.0",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "690ff6d4-de71-4707-81db-a96953728603",
+  "files": [],
+  "subMetas": {
+    "40586": {
+      "importer": "gltf-embeded-image",
+      "uuid": "690ff6d4-de71-4707-81db-a96953728603@40586",
+      "displayName": "",
+      "id": "40586",
+      "name": "UnnamedImage.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".jpg",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c7f7": {
+      "importer": "gltf-mesh",
+      "uuid": "690ff6d4-de71-4707-81db-a96953728603@3c7f7",
+      "displayName": "",
+      "id": "3c7f7",
+      "name": "入口海报.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "690ff6d4-de71-4707-81db-a96953728603@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "690ff6d4-de71-4707-81db-a96953728603@40586"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9aeec": {
+      "importer": "gltf-material",
+      "uuid": "690ff6d4-de71-4707-81db-a96953728603@9aeec",
+      "displayName": "",
+      "id": "9aeec",
+      "name": "材质.1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7c7e8": {
+      "importer": "gltf-scene",
+      "uuid": "690ff6d4-de71-4707-81db-a96953728603@7c7e8",
+      "displayName": "",
+      "id": "7c7e8",
+      "name": "入口海报923.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "690ff6d4-de71-4707-81db-a96953728603@40586"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "redirect": "690ff6d4-de71-4707-81db-a96953728603@7c7e8",
+    "assetFinder": {
+      "meshes": [
+        "690ff6d4-de71-4707-81db-a96953728603@3c7f7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "690ff6d4-de71-4707-81db-a96953728603@e39f7"
+      ],
+      "materials": [
+        "690ff6d4-de71-4707-81db-a96953728603@9aeec"
+      ],
+      "scenes": [
+        "690ff6d4-de71-4707-81db-a96953728603@7c7e8"
+      ]
+    }
+  }
+}

@@ -2,8 +2,29 @@
   "general": {
     "designResolution": {
       "width": 750,
-      "height": 1334
+      "height": 1440,
+      "fitHeight": true,
+      "fitWidth": false
     }
   },
-  "__version__": "1.0.2"
+  "__version__": "1.0.2",
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "player"
+      },
+      {
+        "index": 2,
+        "name": "well"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 7,
+      "1": 7,
+      "2": 7
+    },
+    "autoSimulation": true,
+    "allowSleep": true
+  }
 }

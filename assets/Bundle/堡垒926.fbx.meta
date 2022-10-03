@@ -1,0 +1,1305 @@
+{
+  "ver": "2.3.0",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33",
+  "files": [],
+  "subMetas": {
+    "21712": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@21712",
+      "displayName": "",
+      "id": "21712",
+      "name": "Mesh02.mesh",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "38358": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@38358",
+      "displayName": "",
+      "id": "38358",
+      "name": "堡垒3-2.material",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "39555": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@39555",
+      "displayName": "",
+      "id": "39555",
+      "name": "堡垒灰.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "69518": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@69518",
+      "displayName": "",
+      "id": "69518",
+      "name": "堡垒1-2.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72912": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@72912",
+      "displayName": "",
+      "id": "72912",
+      "name": "人物精神堡垒-中间蓝色_3-2.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@97ad6"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "92299": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@92299",
+      "displayName": "",
+      "id": "92299",
+      "name": "堡垒3-1.material",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "94865": {
+      "importer": "gltf-scene",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@94865",
+      "displayName": "",
+      "id": "94865",
+      "name": "堡垒926.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96073": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@96073",
+      "displayName": "",
+      "id": "96073",
+      "name": "文字_Material1.mesh",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "946eb": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@946eb",
+      "displayName": "",
+      "id": "946eb",
+      "name": "Mesh11.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d26e": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@5d26e",
+      "displayName": "",
+      "id": "5d26e",
+      "name": "Mesh10.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c6167": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@c6167",
+      "displayName": "",
+      "id": "c6167",
+      "name": "Mesh09.mesh",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8c525": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@8c525",
+      "displayName": "",
+      "id": "8c525",
+      "name": "Mesh08.mesh",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d9c3": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@0d9c3",
+      "displayName": "",
+      "id": "0d9c3",
+      "name": "Mesh07.mesh",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "df9df": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@df9df",
+      "displayName": "",
+      "id": "df9df",
+      "name": "Mesh06.mesh",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ae6eb": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@ae6eb",
+      "displayName": "",
+      "id": "ae6eb",
+      "name": "Mesh05.mesh",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e1aeb": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@e1aeb",
+      "displayName": "",
+      "id": "e1aeb",
+      "name": "Mesh04.mesh",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2396e": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@2396e",
+      "displayName": "",
+      "id": "2396e",
+      "name": "Mesh03.mesh",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d1d2": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@2d1d2",
+      "displayName": "",
+      "id": "2d1d2",
+      "name": "Mesh01.mesh",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85cb7": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@85cb7",
+      "displayName": "",
+      "id": "85cb7",
+      "name": "1_5_Material0.mesh",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "917b0": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@917b0",
+      "displayName": "",
+      "id": "917b0",
+      "name": "1_4_Material0.mesh",
+      "userData": {
+        "gltfIndex": 12
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "18a7c": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@18a7c",
+      "displayName": "",
+      "id": "18a7c",
+      "name": "1_3_Material0.mesh",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0718": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@f0718",
+      "displayName": "",
+      "id": "f0718",
+      "name": "窗框.mesh",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8a6e": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@e8a6e",
+      "displayName": "",
+      "id": "e8a6e",
+      "name": "门框.mesh",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f5232": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@f5232",
+      "displayName": "",
+      "id": "f5232",
+      "name": "蓝色站姿_Material1.mesh",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "86bf8": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@86bf8",
+      "displayName": "",
+      "id": "86bf8",
+      "name": "石板.mesh",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "791c4": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@791c4",
+      "displayName": "",
+      "id": "791c4",
+      "name": "屋顶.mesh",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a9319": {
+      "importer": "gltf-mesh",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@a9319",
+      "displayName": "",
+      "id": "a9319",
+      "name": "墙面_Material0.mesh",
+      "userData": {
+        "gltfIndex": 20
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "948b0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@948b0",
+      "displayName": "",
+      "id": "948b0",
+      "name": "人物精神堡垒-中间蓝色_1-1.png.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "772ea": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@772ea",
+      "displayName": "",
+      "id": "772ea",
+      "name": "人物精神堡垒-中间蓝色_1-2.png.image",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "d08f9": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@d08f9",
+      "displayName": "",
+      "id": "d08f9",
+      "name": "人物精神堡垒-中间蓝色_1-3.png.image",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "362e0": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@362e0",
+      "displayName": "",
+      "id": "362e0",
+      "name": "人物精神堡垒-中间蓝色_1-4.png.image",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "853c2": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@853c2",
+      "displayName": "",
+      "id": "853c2",
+      "name": "人物精神堡垒-中间蓝色_2-1.png.image",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "6cb0c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@6cb0c",
+      "displayName": "",
+      "id": "6cb0c",
+      "name": "人物精神堡垒-中间蓝色_2-2.png.image",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "5efb5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@5efb5",
+      "displayName": "",
+      "id": "5efb5",
+      "name": "人物精神堡垒-中间蓝色_2-3.png.image",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "dbeb5": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@dbeb5",
+      "displayName": "",
+      "id": "dbeb5",
+      "name": "人物精神堡垒-中间蓝色_2-4.png.image",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "b272f": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@b272f",
+      "displayName": "",
+      "id": "b272f",
+      "name": "人物精神堡垒-中间蓝色_3-1.png.image",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "97ad6": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@97ad6",
+      "displayName": "",
+      "id": "97ad6",
+      "name": "人物精神堡垒-中间蓝色_3-2.png.image",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "27a0c": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@27a0c",
+      "displayName": "",
+      "id": "27a0c",
+      "name": "人物精神堡垒-中间蓝色_3-3.png.image",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "dfddf": {
+      "importer": "gltf-embeded-image",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@dfddf",
+      "displayName": "",
+      "id": "dfddf",
+      "name": "人物精神堡垒-中间蓝色_3-4.png.image",
+      "userData": {
+        "gltfIndex": 11
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json",
+        ".png"
+      ],
+      "subMetas": {}
+    },
+    "a461a": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@a461a",
+      "displayName": "",
+      "id": "a461a",
+      "name": "人物精神堡垒-中间蓝色_1-1.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@948b0"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c91cb": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@c91cb",
+      "displayName": "",
+      "id": "c91cb",
+      "name": "人物精神堡垒-中间蓝色_1-2.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@772ea"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "edc65": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@edc65",
+      "displayName": "",
+      "id": "edc65",
+      "name": "人物精神堡垒-中间蓝色_1-3.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@d08f9"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8ad1f": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@8ad1f",
+      "displayName": "",
+      "id": "8ad1f",
+      "name": "人物精神堡垒-中间蓝色_1-4.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@362e0"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "342da": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@342da",
+      "displayName": "",
+      "id": "342da",
+      "name": "人物精神堡垒-中间蓝色_2-1.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@853c2"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d266": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@2d266",
+      "displayName": "",
+      "id": "2d266",
+      "name": "人物精神堡垒-中间蓝色_2-2.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@6cb0c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "becc7": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@becc7",
+      "displayName": "",
+      "id": "becc7",
+      "name": "人物精神堡垒-中间蓝色_2-3.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@5efb5"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "418fd": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@418fd",
+      "displayName": "",
+      "id": "418fd",
+      "name": "人物精神堡垒-中间蓝色_2-4.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@dbeb5"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e5574": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@e5574",
+      "displayName": "",
+      "id": "e5574",
+      "name": "人物精神堡垒-中间蓝色_3-1.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@b272f"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d556": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@2d556",
+      "displayName": "",
+      "id": "2d556",
+      "name": "人物精神堡垒-中间蓝色_3-3.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@27a0c"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c1a41": {
+      "importer": "texture",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@c1a41",
+      "displayName": "",
+      "id": "c1a41",
+      "name": "人物精神堡垒-中间蓝色_3-4.png.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "d5102f0b-98b0-4261-9c61-48810d169d33@dfddf"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3c006": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@3c006",
+      "displayName": "",
+      "id": "3c006",
+      "name": "文字.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad23b": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@ad23b",
+      "displayName": "",
+      "id": "ad23b",
+      "name": "堡垒1-1.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3046c": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@3046c",
+      "displayName": "",
+      "id": "3046c",
+      "name": "堡垒1-3.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b9d7": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@6b9d7",
+      "displayName": "",
+      "id": "6b9d7",
+      "name": "堡垒1-4.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24d85": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@24d85",
+      "displayName": "",
+      "id": "24d85",
+      "name": "堡垒2-1.material",
+      "userData": {
+        "gltfIndex": 6
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ee96": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@1ee96",
+      "displayName": "",
+      "id": "1ee96",
+      "name": "堡垒2-2.material",
+      "userData": {
+        "gltfIndex": 7
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f8913": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@f8913",
+      "displayName": "",
+      "id": "f8913",
+      "name": "堡垒2-3.material",
+      "userData": {
+        "gltfIndex": 8
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7bf15": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@7bf15",
+      "displayName": "",
+      "id": "7bf15",
+      "name": "堡垒2-4.material",
+      "userData": {
+        "gltfIndex": 9
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bff75": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@bff75",
+      "displayName": "",
+      "id": "bff75",
+      "name": "堡垒蓝.material",
+      "userData": {
+        "gltfIndex": 10
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53ac1": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@53ac1",
+      "displayName": "",
+      "id": "53ac1",
+      "name": "堡垒3-3.material",
+      "userData": {
+        "gltfIndex": 13
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e110": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@0e110",
+      "displayName": "",
+      "id": "0e110",
+      "name": "堡垒3-4.material",
+      "userData": {
+        "gltfIndex": 14
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0da8e": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@0da8e",
+      "displayName": "",
+      "id": "0da8e",
+      "name": "班子.material",
+      "userData": {
+        "gltfIndex": 15
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d87ae": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@d87ae",
+      "displayName": "",
+      "id": "d87ae",
+      "name": "石板.material",
+      "userData": {
+        "gltfIndex": 16
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a96f": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@4a96f",
+      "displayName": "",
+      "id": "4a96f",
+      "name": "屋顶.material",
+      "userData": {
+        "gltfIndex": 17
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "411ff": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@411ff",
+      "displayName": "",
+      "id": "411ff",
+      "name": "墙面.material",
+      "userData": {
+        "gltfIndex": 18
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6ba8f": {
+      "importer": "gltf-material",
+      "uuid": "d5102f0b-98b0-4261-9c61-48810d169d33@6ba8f",
+      "displayName": "",
+      "id": "6ba8f",
+      "name": "玻璃.material",
+      "userData": {
+        "gltfIndex": 19
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "人物精神堡垒-中间蓝色_1-1.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@948b0"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_1-2.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@772ea"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_1-3.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@d08f9"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_1-4.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@362e0"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_2-1.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@853c2"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_2-2.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@6cb0c"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_2-3.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@5efb5"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_2-4.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@dbeb5"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_3-1.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@b272f"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_3-2.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@97ad6"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_3-3.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@27a0c"
+      },
+      {
+        "name": "人物精神堡垒-中间蓝色_3-4.png",
+        "uri": "d5102f0b-98b0-4261-9c61-48810d169d33@dfddf"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "allowMeshDataAccess": true,
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "redirect": "d5102f0b-98b0-4261-9c61-48810d169d33@94865",
+    "assetFinder": {
+      "meshes": [
+        "d5102f0b-98b0-4261-9c61-48810d169d33@946eb",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@5d26e",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@c6167",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@8c525",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@0d9c3",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@df9df",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@ae6eb",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@e1aeb",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@2396e",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@21712",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@2d1d2",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@85cb7",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@917b0",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@18a7c",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@96073",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@f0718",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@e8a6e",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@f5232",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@86bf8",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@791c4",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@a9319"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d5102f0b-98b0-4261-9c61-48810d169d33@a461a",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@c91cb",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@edc65",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@8ad1f",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@342da",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@2d266",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@becc7",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@418fd",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@e5574",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@72912",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@2d556",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@c1a41"
+      ],
+      "materials": [
+        "d5102f0b-98b0-4261-9c61-48810d169d33@3c006",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@39555",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@ad23b",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@69518",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@3046c",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@6b9d7",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@24d85",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@1ee96",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@f8913",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@7bf15",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@bff75",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@92299",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@38358",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@53ac1",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@0e110",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@0da8e",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@d87ae",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@4a96f",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@411ff",
+        "d5102f0b-98b0-4261-9c61-48810d169d33@6ba8f"
+      ],
+      "scenes": [
+        "d5102f0b-98b0-4261-9c61-48810d169d33@94865"
+      ]
+    }
+  }
+}

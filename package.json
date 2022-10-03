@@ -1,5 +1,5 @@
 {
-  "name": "Online_bazaar-",
+  "name": "灵感市集 ｜ ONE物皆可",
   "uuid": "f09262e8-9cea-4da4-af33-acacfa67341e",
   "version": "3.6.0",
   "creator": {
@@ -7,6 +7,8 @@
   },
   "dependencies": {
     "@types/node": "^18.7.18",
+    "agora-rtc-sdk-ng": "^4.7.1",
+    "axios": "^0.27.2",
     "k8w-extend-native": "^1.4.6",
     "protobuf.js": "^1.1.2",
     "socket.io-client": "^2.5.0",

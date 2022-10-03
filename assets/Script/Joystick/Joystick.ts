@@ -1,4 +1,4 @@
-import { Component, EventTouch, Node, Vec2, Vec3, _decorator } from 'cc';
+import { Component, EventTouch, macro, Node, Vec2, Vec3, _decorator } from 'cc';
 import { MathUtil } from '../Model/MathUtil';
 const { ccclass, property } = _decorator;
 
@@ -42,10 +42,40 @@ export class Joystick extends Component {
     }
 
     onLoad () {
+        // this.node.on(Node.EventType.TOUCH_MOVE, this.onTouchMove, this)
         this.node.on(Node.EventType.TOUCH_START, this.onTouch, this);
         this.node.on(Node.EventType.TOUCH_MOVE, this.onTouch, this);
         this.node.on(Node.EventType.TOUCH_END, this.onTouchEnd, this);
     }
+    //多点触碰
+    // onTouchMove (event: EventTouch) {
+    //     const touch = event.touch!;
+    //     const touches = event.getAllTouches();
+    //     const changedTouches = event.getTouches();
+    //     if (macro.ENABLE_MULTI_TOUCH && touches.length > 1) {
+    //         let touch1: Touch = null!;
+    //         let touch2: Touch = null!;
+    //         const delta2 = new Vec2();
+    //         if (changedTouches.length > 1) {
+    //             touch1 = touches[0];
+    //             touch2 = touches[1];
+    //             touch2.getDelta(delta2);
+
+    //         } else {
+    //             touch1 = touch;
+    //             const diffID = touch1.getID();
+    //             let str = '';
+    //             for (let i = 0; i < touches.length; i++) {
+    //                 const element = touches[i];
+    //                 str += `${element.getID()} - `;
+    //                 if (element.getID() !== diffID) {
+    //                     touch2 = element;
+    //                     break;
+    //                 }
+    //             }
+    //         }
+    //     }
+    // }
 
     private _touchStartPos?: Vec2;
     private _value = new Vec2;
@@ -107,3 +137,4 @@ export class Joystick extends Component {
     }
 
 }
+

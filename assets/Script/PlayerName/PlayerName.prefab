@@ -263,7 +263,6 @@
     "__prefab": {
       "__id__": 8
     },
-    "_visFlags": 0,
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -467,7 +466,6 @@
     "__prefab": {
       "__id__": 19
     },
-    "_visFlags": 0,
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -599,7 +597,7 @@
     "_contentSize": {
       "__type__": "cc.Size",
       "width": 200,
-      "height": 75.8
+      "height": 45.8
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",
@@ -623,7 +621,6 @@
     "__prefab": {
       "__id__": 29
     },
-    "_visFlags": 0,
     "_customMaterial": null,
     "_srcBlendFactor": 2,
     "_dstBlendFactor": 4,
@@ -634,7 +631,7 @@
       "b": 255,
       "a": 255
     },
-    "_string": "啊啊是真的吗那太好了呀",
+    "_string": "",
     "_horizontalAlign": 1,
     "_verticalAlign": 1,
     "_actualFontSize": 26,
