@@ -88,7 +88,6 @@ export class index extends Component {
             const uid = user.uid;
             // subscribe to a remote user
             await self.client.subscribe(user, mediaType);
-            console.log("subscribe success");
             if (mediaType === 'audio') {
                 user.audioTrack.play();
             }
@@ -116,12 +115,8 @@ export class index extends Component {
             this.Hide.active = false
             this.Show.active = false
         }
-
-        // remove remote users and player views
-
         // leave the channel
         this.client.leave();
-        console.log('leave');
         this.options.channel = null
     }
 

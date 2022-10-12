@@ -4,7 +4,6 @@ import { Camera, Color, Component, EditBox, instantiate, Label, Node, Prefab, Qu
 import { RoomUserState, UserInfo, ResJoinRoom } from './type/type'
 import { Joystick } from '../Joystick/Joystick'
 import { FollowCamera } from '../Components/FollowCamera'
-import { NetUtil } from '../Model/NetUtil'
 import { RoomData, PlayerAniState } from './type/type';
 import { uuid } from '../Model/uuid';
 import { goToHouse } from '../Components/goToHouse';
@@ -57,6 +56,7 @@ export class Manager extends Component {
 
 
     onLoad () {
+        //定时向服务器上报状态
         let throttleTimer;
         this.throttle = (obj: any, callback: { apply: (arg0: any, arg1: any[]) => void; }, time: number, a: string, b: any) => {
             if (throttleTimer) return;
@@ -99,8 +99,6 @@ export class Manager extends Component {
             },
             alwaysActive: true
         }
-        // .....
-        // 定时向服务器上报状态
 
     }
 
@@ -110,7 +108,7 @@ export class Manager extends Component {
         let code = JSON.parse(localStorage.getItem('Code'))
         const userState = {
             uid: uid,
-            name: code.nickname,
+            name: 'code.nickname',
             pos: {
                 x: 0,
                 y: 0,
@@ -136,10 +134,6 @@ export class Manager extends Component {
                 return
             }
             this._updateUserState(data)
-            // let playerName = this.playerNames.getChildByName(data.userState.name)?.getComponent(PlayerName);
-            // if (playerName) {
-            //     playerName.showChatMsg(data.userState.name);
-            // }
         })
 
         //下线销毁
@@ -160,8 +154,6 @@ export class Manager extends Component {
     private _updateUserState (state: RoomUserState) {
         let node = this.players.getChildByName(state.uid);
         let currentUser = JSON.parse(localStorage.getItem('Self'))
-        //let code = JSON.parse(localStorage.getItem('Code'))
-        //let code = { nickname: ' 老徐', openid: '1563135132132132135' }
         let sex = Math.floor(Math.random() * 2)
         // Create Player
         if (!node) {
@@ -173,8 +165,6 @@ export class Manager extends Component {
             if (sex === 1) {
                 node = instantiate(this.prefabPlayerWoMan);
             }
-
-            // node = instantiate(this.prefabPlayerMan);
             node.name = state.uid;
             this.players.addChild(node);
             this.node.getComponent(goToHouse)
@@ -191,7 +181,6 @@ export class Manager extends Component {
                 namePosNode: node.getChildByName('namePos')!,
                 camera3D: this.followCamera.getComponent(Camera)!,
                 nickname: state.name
-                // userInfo?.nickname || '???'
             };
             // Set selfPlayer
             if (state.uid === currentUser.uid) {
@@ -202,10 +191,7 @@ export class Manager extends Component {
             localStorage.setItem('OtherList', JSON.stringify(this.OtherList))
             return;
         }
-        // 简单起见：自己以本地状态为主，不从服务端同步
-        // if (state.uid === currentUser.uid) {
-        //     return;
-        // }
+
         // 插值其它 Player 的状态
         node.getComponent(Player)!.aniState = state.aniState;
         TweenSystem.instance.ActionManager.removeAllActionsFromTarget(node.position as any);
@@ -226,7 +212,6 @@ export class Manager extends Component {
             let playername = this.selfPlayer.name.slice(0, 16)
             if (currentUser.uid == playername) {
                 let collider = this.selfPlayer.getComponent(Collider)
-                // collider.on('onTriggerExit', this.onCollisionLeave, this);
                 collider.on('onTriggerEnter', this.onTriggerStage, this)
                 collider.on('onTriggerEnter', this.JoinRoom, this)
                 collider.on('onTriggerExit', this.leaveRoom, this)
@@ -244,6 +229,7 @@ export class Manager extends Component {
         }
     }
 
+    //声音房间判断
     JoinRoom (event: ITriggerEvent) {
         let Agora = this.node.getComponent(index)
         if (event.otherCollider.node.name == '1') {
@@ -263,7 +249,7 @@ export class Manager extends Component {
 
         }
         if (event.otherCollider.node.name == '5') {
-            Agora.toSound('6')
+            Agora.toSound('5')
 
         }
         if (event.otherCollider.node.name == '6') {
@@ -275,10 +261,11 @@ export class Manager extends Component {
         }
 
     }
+    //离开摊位,断开声网连接
     leaveRoom (event: ITriggerEvent) {
         let Agora = this.node.getComponent(index)
         const roomid = ['1', '2', '3', '4', '5', '6', '7']
-        for (let id in roomid) {
+        for (let id of roomid) {
             if (event.otherCollider.node.name == id) {
                 Agora.leave()
                 this.Muted.active = false
@@ -287,6 +274,7 @@ export class Manager extends Component {
         }
 
     }
+    //销毁缓动 
     onDestroy () {
         TweenSystem.instance.ActionManager.removeAllActionsByTag(99);
     }

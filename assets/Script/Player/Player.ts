@@ -16,8 +16,6 @@ export class Player extends Component {
     mesh!: SkinnedMeshRenderer;
     @property(Node)
     namePos!: Node;
-    @property(Node)
-    muted!: Node;
     selfPlayer: any;
     onLoad () {
 

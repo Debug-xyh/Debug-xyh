@@ -17,7 +17,6 @@ export interface RoomData {
     id: string,
     name: string,
     users: (UserInfo & { color: { r: 191, g: 209, b: 178 } })[],
-    /** 历史消息（只保留最近的 N 条） */
     messages: {
         user: UserInfo,
         time: Date,
