@@ -2,12 +2,12 @@
   "ver": "1.1.39",
   "importer": "prefab",
   "imported": true,
-  "uuid": "149446de-42c3-4fce-b504-f74011201390",
+  "uuid": "a75953d4-1acf-4617-826a-2f587f53d992",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "PlayerWomen"
+    "syncNodeName": "girl06"
   }
 }

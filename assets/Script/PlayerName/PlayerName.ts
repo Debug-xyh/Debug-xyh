@@ -51,7 +51,7 @@ export class PlayerName extends Component {
         // 10 秒后消失
         TweenSystem.instance.ActionManager.removeAllActionsFromTarget(this.chatMsg);
         tween(this.chatMsg).to(0.2, { scale: Vec3.ONE }, { easing: 'backOut' })
-            .delay(10).to(0.2, { scale: Vec3.ZERO }, { easing: 'backIn' }).call(() => {
+            .delay(3).to(0.2, { scale: Vec3.ZERO }, { easing: 'backIn' }).call(() => {
                 this.chatMsg.active = false
             }).start();
     }

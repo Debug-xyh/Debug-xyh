@@ -45,13 +45,36 @@ export class Manager extends Component {
     @property(Node)
     playerNames!: Node;
     @property(Prefab)
-    prefabPlayer!: Prefab;
-    @property(Prefab)
-    prefabPlayerMan!: Prefab
-    @property(Prefab)
-    prefabPlayerWoMan!: Prefab
-    @property(Prefab)
     prefabPlayerName!: Prefab;
+
+    //boysplayer
+    @property(Prefab)
+    prefabPlayerBoy1!: Prefab
+    @property(Prefab)
+    prefabPlayerBoy2!: Prefab
+    @property(Prefab)
+    prefabPlayerBoy3!: Prefab
+    @property(Prefab)
+    prefabPlayerBoy4!: Prefab
+    @property(Prefab)
+    prefabPlayerBoy5!: Prefab
+    @property(Prefab)
+    prefabPlayerBoy6!: Prefab
+
+    //girlplayer
+    @property(Prefab)
+    prefabPlayerGirl1!: Prefab
+    @property(Prefab)
+    prefabPlayerGirl2!: Prefab
+    @property(Prefab)
+    prefabPlayerGirl3!: Prefab
+    @property(Prefab)
+    prefabPlayerGirl4!: Prefab
+    @property(Prefab)
+    prefabPlayerGirl5!: Prefab
+    @property(Prefab)
+    prefabPlayerGirl6!: Prefab
+
 
 
 
@@ -160,10 +183,46 @@ export class Manager extends Component {
             // Player
             //性别
             if (sex === 0) {
-                node = instantiate(this.prefabPlayerMan);
+                let color = Math.floor(Math.random() * 6)
+                if (color === 0) {
+                    node = instantiate(this.prefabPlayerBoy1);
+                }
+                if (color === 1) {
+                    node = instantiate(this.prefabPlayerBoy2);
+                }
+                if (color === 2) {
+                    node = instantiate(this.prefabPlayerBoy3);
+                }
+                if (color === 3) {
+                    node = instantiate(this.prefabPlayerBoy4);
+                }
+                if (color === 4) {
+                    node = instantiate(this.prefabPlayerBoy5);
+                }
+                if (color === 5) {
+                    node = instantiate(this.prefabPlayerBoy6);
+                }
             }
             if (sex === 1) {
-                node = instantiate(this.prefabPlayerWoMan);
+                let color = Math.floor(Math.random() * 6)
+                if (color === 0) {
+                    node = instantiate(this.prefabPlayerGirl1);
+                }
+                if (color === 1) {
+                    node = instantiate(this.prefabPlayerGirl2);
+                }
+                if (color === 2) {
+                    node = instantiate(this.prefabPlayerGirl3);
+                }
+                if (color === 3) {
+                    node = instantiate(this.prefabPlayerGirl4);
+                }
+                if (color === 4) {
+                    node = instantiate(this.prefabPlayerGirl5);
+                }
+                if (color === 5) {
+                    node = instantiate(this.prefabPlayerGirl6);
+                }
             }
             node.name = state.uid;
             this.players.addChild(node);

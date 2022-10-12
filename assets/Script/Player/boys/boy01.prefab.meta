@@ -2,12 +2,12 @@
   "ver": "1.1.39",
   "importer": "prefab",
   "imported": true,
-  "uuid": "46c1b847-2502-4318-8d70-9631403fc099",
+  "uuid": "0039e976-4d02-4d5b-9ea0-66552ec1de5d",
   "files": [
     ".json"
   ],
   "subMetas": {},
   "userData": {
-    "syncNodeName": "PlayerMan"
+    "syncNodeName": "boy01"
   }
 }

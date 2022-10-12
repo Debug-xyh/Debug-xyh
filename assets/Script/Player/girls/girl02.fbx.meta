@@ -2,14 +2,14 @@
   "ver": "2.3.0",
   "importer": "fbx",
   "imported": true,
-  "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7",
+  "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52",
   "files": [
     "__original-animation-0.cconb"
   ],
   "subMetas": {
     "30732": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@30732",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@30732",
       "displayName": "",
       "id": "30732",
       "name": "UnnamedSkeleton-0.skeleton",
@@ -26,7 +26,7 @@
     },
     "48600": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@48600",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@48600",
       "displayName": "",
       "id": "48600",
       "name": "Retopo_3_Material0.mesh",
@@ -43,7 +43,7 @@
     },
     "62756": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@62756",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@62756",
       "displayName": "",
       "id": "62756",
       "name": "UnnamedSkeleton-5.skeleton",
@@ -60,7 +60,7 @@
     },
     "78267": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@78267",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@78267",
       "displayName": "",
       "id": "78267",
       "name": "zuiba.material",
@@ -76,7 +76,7 @@
     },
     "6da6e": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@6da6e",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@6da6e",
       "displayName": "",
       "id": "6da6e",
       "name": "Torus_1.mesh",
@@ -93,7 +93,7 @@
     },
     "e8bbe": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@e8bbe",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@e8bbe",
       "displayName": "",
       "id": "e8bbe",
       "name": "HyperNURBS_27_Material0.mesh",
@@ -110,7 +110,7 @@
     },
     "5b6d5": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@5b6d5",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@5b6d5",
       "displayName": "",
       "id": "5b6d5",
       "name": "HyperNURBS_22.mesh",
@@ -127,7 +127,7 @@
     },
     "f62e0": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@f62e0",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@f62e0",
       "displayName": "",
       "id": "f62e0",
       "name": "HyperNURBS_28_Material0.mesh",
@@ -144,7 +144,7 @@
     },
     "21b09": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@21b09",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@21b09",
       "displayName": "",
       "id": "21b09",
       "name": "HyperNURBS_14_Material0.mesh",
@@ -161,7 +161,7 @@
     },
     "cb6c1": {
       "importer": "gltf-mesh",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@cb6c1",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@cb6c1",
       "displayName": "",
       "id": "cb6c1",
       "name": "HyperNURBS_25.mesh",
@@ -178,7 +178,7 @@
     },
     "512ac": {
       "importer": "gltf-animation",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@512ac",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@512ac",
       "displayName": "",
       "id": "512ac",
       "name": "walking.animation",
@@ -201,7 +201,7 @@
     },
     "f1394": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@f1394",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@f1394",
       "displayName": "",
       "id": "f1394",
       "name": "UnnamedSkeleton-1.skeleton",
@@ -218,7 +218,7 @@
     },
     "75ee4": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@75ee4",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@75ee4",
       "displayName": "",
       "id": "75ee4",
       "name": "UnnamedSkeleton-2.skeleton",
@@ -235,7 +235,7 @@
     },
     "a72ab": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@a72ab",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@a72ab",
       "displayName": "",
       "id": "a72ab",
       "name": "UnnamedSkeleton-3.skeleton",
@@ -252,7 +252,7 @@
     },
     "2224c": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@2224c",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@2224c",
       "displayName": "",
       "id": "2224c",
       "name": "UnnamedSkeleton-4.skeleton",
@@ -269,7 +269,7 @@
     },
     "7d08b": {
       "importer": "gltf-skeleton",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@7d08b",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@7d08b",
       "displayName": "",
       "id": "7d08b",
       "name": "UnnamedSkeleton-6.skeleton",
@@ -286,7 +286,7 @@
     },
     "94a0e": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@94a0e",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@94a0e",
       "displayName": "",
       "id": "94a0e",
       "name": "pifu.material",
@@ -302,7 +302,7 @@
     },
     "f6a7e": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@f6a7e",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@f6a7e",
       "displayName": "",
       "id": "f6a7e",
       "name": "kuzi.material",
@@ -318,7 +318,7 @@
     },
     "6b7f2": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@6b7f2",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@6b7f2",
       "displayName": "",
       "id": "6b7f2",
       "name": "shangyi.material",
@@ -334,7 +334,7 @@
     },
     "c2c3a": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@c2c3a",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@c2c3a",
       "displayName": "",
       "id": "c2c3a",
       "name": "xiemian.material",
@@ -350,7 +350,7 @@
     },
     "3d39a": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@3d39a",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@3d39a",
       "displayName": "",
       "id": "3d39a",
       "name": "xiedi.material",
@@ -364,12 +364,12 @@
       ],
       "subMetas": {}
     },
-    "2deab": {
+    "41a20": {
       "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@2deab",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@41a20",
       "displayName": "",
-      "id": "2deab",
-      "name": "Default_Material.material",
+      "id": "41a20",
+      "name": "toufa.material",
       "userData": {
         "gltfIndex": 6
       },
@@ -380,28 +380,12 @@
       ],
       "subMetas": {}
     },
-    "41a20": {
-      "importer": "gltf-material",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@41a20",
-      "displayName": "",
-      "id": "41a20",
-      "name": "toufa.material",
-      "userData": {
-        "gltfIndex": 7
-      },
-      "ver": "1.0.14",
-      "imported": true,
-      "files": [
-        ".json"
-      ],
-      "subMetas": {}
-    },
-    "8cd5f": {
+    "ee633": {
       "importer": "gltf-scene",
-      "uuid": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@8cd5f",
+      "uuid": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@ee633",
       "displayName": "",
-      "id": "8cd5f",
-      "name": "Player2.prefab",
+      "id": "ee633",
+      "name": "girl02.prefab",
       "userData": {
         "gltfIndex": 0
       },
@@ -435,39 +419,38 @@
         ]
       }
     ],
-    "redirect": "74db168b-1753-4bf9-b69c-bd3e0589f4a7@8cd5f",
+    "redirect": "c85945ab-c806-4ca5-ad00-3a5166d2cd52@ee633",
     "assetFinder": {
       "meshes": [
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@6da6e",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@e8bbe",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@5b6d5",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@f62e0",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@21b09",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@48600",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@cb6c1"
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@6da6e",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@e8bbe",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@5b6d5",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@f62e0",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@21b09",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@48600",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@cb6c1"
       ],
       "skeletons": [
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@30732",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@f1394",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@75ee4",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@a72ab",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@2224c",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@62756",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@7d08b"
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@30732",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@f1394",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@75ee4",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@a72ab",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@2224c",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@62756",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@7d08b"
       ],
       "textures": [],
       "materials": [
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@78267",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@94a0e",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@f6a7e",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@6b7f2",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@c2c3a",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@3d39a",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@2deab",
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@41a20"
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@78267",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@94a0e",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@f6a7e",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@6b7f2",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@c2c3a",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@3d39a",
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@41a20"
       ],
       "scenes": [
-        "74db168b-1753-4bf9-b69c-bd3e0589f4a7@8cd5f"
+        "c85945ab-c806-4ca5-ad00-3a5166d2cd52@ee633"
       ]
     }
   }
