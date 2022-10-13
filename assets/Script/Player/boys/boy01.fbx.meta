@@ -2,14 +2,14 @@
   "ver": "2.3.0",
   "importer": "fbx",
   "imported": true,
-  "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47",
+  "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63",
   "files": [
     "__original-animation-0.cconb"
   ],
   "subMetas": {
     "18851": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@18851",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@18851",
       "displayName": "",
       "id": "18851",
       "name": "shenti.material",
@@ -25,7 +25,7 @@
     },
     "30356": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@30356",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@30356",
       "displayName": "",
       "id": "30356",
       "name": "xiedai.material",
@@ -41,7 +41,7 @@
     },
     "30732": {
       "importer": "gltf-skeleton",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@30732",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@30732",
       "displayName": "",
       "id": "30732",
       "name": "UnnamedSkeleton-0.skeleton",
@@ -58,7 +58,7 @@
     },
     "2c7f2": {
       "importer": "gltf-mesh",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@2c7f2",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@2c7f2",
       "displayName": "",
       "id": "2c7f2",
       "name": "walking_2_Material0.mesh",
@@ -75,7 +75,7 @@
     },
     "7952d": {
       "importer": "gltf-mesh",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@7952d",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@7952d",
       "displayName": "",
       "id": "7952d",
       "name": "walking_3_Material0.mesh",
@@ -92,14 +92,13 @@
     },
     "512ac": {
       "importer": "gltf-animation",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@512ac",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@512ac",
       "displayName": "",
       "id": "512ac",
       "name": "walking.animation",
       "userData": {
         "gltfIndex": 0,
         "wrapMode": 2,
-        "speed": 1,
         "sample": 30,
         "span": {
           "from": 0,
@@ -116,7 +115,7 @@
     },
     "f1394": {
       "importer": "gltf-skeleton",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@f1394",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@f1394",
       "displayName": "",
       "id": "f1394",
       "name": "UnnamedSkeleton-1.skeleton",
@@ -133,7 +132,7 @@
     },
     "f6a7e": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@f6a7e",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@f6a7e",
       "displayName": "",
       "id": "f6a7e",
       "name": "kuzi.material",
@@ -149,7 +148,7 @@
     },
     "ad324": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@ad324",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@ad324",
       "displayName": "",
       "id": "ad324",
       "name": "xiezi.material",
@@ -165,7 +164,7 @@
     },
     "6f7d6": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@6f7d6",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@6f7d6",
       "displayName": "",
       "id": "6f7d6",
       "name": "xiezi2.material",
@@ -181,7 +180,7 @@
     },
     "6b7f2": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@6b7f2",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@6b7f2",
       "displayName": "",
       "id": "6b7f2",
       "name": "shangyi.material",
@@ -197,7 +196,7 @@
     },
     "41a20": {
       "importer": "gltf-material",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@41a20",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@41a20",
       "displayName": "",
       "id": "41a20",
       "name": "toufa.material",
@@ -213,7 +212,7 @@
     },
     "fb69d": {
       "importer": "gltf-scene",
-      "uuid": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@fb69d",
+      "uuid": "a2d708fa-8ed6-402c-8439-228cb35fcc63@fb69d",
       "displayName": "",
       "id": "fb69d",
       "name": "boy01.prefab",
@@ -245,34 +244,33 @@
             "name": "walking",
             "from": 0,
             "to": 1.1666666269302368,
-            "wrapMode": 2,
-            "speed": 1
+            "wrapMode": 2
           }
         ]
       }
     ],
-    "redirect": "7925ea77-1d5c-47a4-aa21-0236df8e9c47@fb69d",
+    "redirect": "a2d708fa-8ed6-402c-8439-228cb35fcc63@fb69d",
     "assetFinder": {
       "meshes": [
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@2c7f2",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@7952d"
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@2c7f2",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@7952d"
       ],
       "skeletons": [
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@30732",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@f1394"
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@30732",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@f1394"
       ],
       "textures": [],
       "materials": [
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@18851",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@f6a7e",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@30356",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@ad324",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@6f7d6",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@6b7f2",
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@41a20"
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@18851",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@f6a7e",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@30356",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@ad324",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@6f7d6",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@6b7f2",
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@41a20"
       ],
       "scenes": [
-        "7925ea77-1d5c-47a4-aa21-0236df8e9c47@fb69d"
+        "a2d708fa-8ed6-402c-8439-228cb35fcc63@fb69d"
       ]
     }
   }

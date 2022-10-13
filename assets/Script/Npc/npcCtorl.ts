@@ -76,6 +76,9 @@ export class npcCotrl extends Component {
 
         let collider7 = this.NPC.getChildByName('7').getComponent(Collider)
         collider7.on('onCollisionEnter', this.Welcome7, this)
+
+        let collider8 = this.NPC.getChildByName('8').getComponent(Collider)
+        collider8.on('onCollisionEnter', this.Welcome8, this)
     }
     //NPC 名字
     createNpc (state) {
@@ -140,13 +143,12 @@ export class npcCotrl extends Component {
                 nodeName.getComponent(PlayerName)!.options = {
                     namePosNode: node.getChildByName('namePos')!,
                     camera3D: this.followCamera.getComponent(Camera)!,
-                    nickname: '摊主'
+                    nickname: npc.name
                 };
             }
-            if (this.NPC.children.length === 7) {
+            if (this.NPC.children.length === 8) {
                 return
             }
-            console.log(this.NPC.children.length);
         }
     }
     Welcome1 () {
@@ -189,6 +191,12 @@ export class npcCotrl extends Component {
         let playerName = this.playerNames.getChildByName('7')?.getComponent(PlayerName);
         if (playerName) {
             playerName.showChatMsg('我赚够三千万就收手');
+        }
+    }
+    Welcome8 () {
+        let playerName = this.playerNames.getChildByName('8')?.getComponent(PlayerName);
+        if (playerName) {
+            playerName.showChatMsg('贵宾一位,里面请');
         }
     }
     // play () {
