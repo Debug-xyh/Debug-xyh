@@ -42,13 +42,14 @@ export class PlayerName extends Component {
         this.node.setScale(ratio, ratio, 1);
     }
 
+    //对话框
     showChatMsg (content: string) {
         this.labelChatMsg.string = content;
         this.chatMsg.active = true;
         this.chatMsg.setScale(0, 0, 0);
         this.chatMsg.setPosition(0, this.node.getComponent(UITransform)!.height + 10, 0);
 
-        // 10 秒后消失
+        // 3 秒后消失
         TweenSystem.instance.ActionManager.removeAllActionsFromTarget(this.chatMsg);
         tween(this.chatMsg).to(0.2, { scale: Vec3.ONE }, { easing: 'backOut' })
             .delay(3).to(0.2, { scale: Vec3.ZERO }, { easing: 'backIn' }).call(() => {

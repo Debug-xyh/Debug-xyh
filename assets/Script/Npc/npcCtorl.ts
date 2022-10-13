@@ -5,8 +5,6 @@ import { FollowCamera } from '../Components/FollowCamera';
 import { npcList } from './npcList';
 const { ccclass, property } = _decorator;
 
-const v3_1 = new Vec3;
-
 @ccclass('npcCotrl')
 export class npcCotrl extends Component {
 
@@ -199,6 +197,7 @@ export class npcCotrl extends Component {
             playerName.showChatMsg('贵宾一位,里面请');
         }
     }
+    //人物移动
     // play () {
     //     let tweenDuration: number = 1.0;
     //     let pos: Vec3 = this.node.getWorldPosition()

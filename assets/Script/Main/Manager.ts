@@ -1,32 +1,24 @@
 import { Player } from './../Player/Player';
 import { PlayerName } from '../PlayerName/PlayerName';
-import { Camera, Color, Component, EditBox, instantiate, Label, Node, Prefab, Quat, RichText, tween, TweenSystem, Vec2, _decorator, EventTouch, math, director, Collider, ICollisionEvent, ITriggerEvent, WebView, Vec3 } from 'cc';
-import { RoomUserState, UserInfo, ResJoinRoom } from './type/type'
+import { Camera, Component, instantiate, Node, Prefab, Quat, tween, TweenSystem, Vec2, _decorator, Collider, ITriggerEvent } from 'cc';
+import { RoomUserState, UserInfo } from './type/type'
 import { Joystick } from '../Joystick/Joystick'
 import { FollowCamera } from '../Components/FollowCamera'
-import { RoomData, PlayerAniState } from './type/type';
+import { PlayerAniState } from './type/type';
 import { uuid } from '../Model/uuid';
-import { goToHouse } from '../Components/goToHouse';
 import { index } from '../API/AgoraRTC';
 const { ccclass, property } = _decorator;
 const q4_1 = new Quat;
 const v2_1 = new Vec2;
 
 
-export interface RoomSceneParams {
-    serverUrl: string,
-    nickname?: string,
-    roomId: string,
-}
+
 
 @ccclass('Manager')
 export class Manager extends Component {
 
     socket: Socket = null
-    params!: RoomSceneParams;
     selfPlayer?: Player
-    currentUser!: UserInfo;
-    roomData!: RoomData;
     PlayerAniState: PlayerAniState
     OtherList = []
     throttle: any
@@ -131,7 +123,7 @@ export class Manager extends Component {
         let code = JSON.parse(localStorage.getItem('Code'))
         const userState = {
             uid: uid,
-            name: 'code.nickname',
+            name: code.nickname,
             pos: {
                 x: 0,
                 y: 0,
@@ -183,6 +175,7 @@ export class Manager extends Component {
             // Player
             //性别
             if (sex === 0) {
+                //颜色随机
                 let color = Math.floor(Math.random() * 6)
                 if (color === 0) {
                     node = instantiate(this.prefabPlayerBoy1);
@@ -226,7 +219,6 @@ export class Manager extends Component {
             }
             node.name = state.uid;
             this.players.addChild(node);
-            this.node.getComponent(goToHouse)
             node.setPosition(state.pos.x, state.pos.y, state.pos.z);
             node.setRotation(state.rotation.x, state.rotation.y, state.rotation.z, state.rotation.w);
             const player = node.getComponent(Player)!;

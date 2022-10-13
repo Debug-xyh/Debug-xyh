@@ -1,11 +1,7 @@
 
-import { Camera, Color, Component, Node, SkeletalAnimation, SkinnedMeshRenderer, Vec3, view, _decorator, Collider, ICollisionEvent, ITriggerEvent } from 'cc';
-import { MathUtil } from '../Model/MathUtil';
+import { Color, Component, Node, SkeletalAnimation, SkinnedMeshRenderer, Vec3, _decorator, Collider, ITriggerEvent } from 'cc';
 import { PlayerAniState } from '../Main/type/type';
-import { index } from '../API/AgoraRTC';
 const { ccclass, property } = _decorator;
-
-const v3_1 = new Vec3;
 
 @ccclass('Player')
 export class Player extends Component {
@@ -72,13 +68,13 @@ export class Player extends Component {
         if (event.otherCollider.node.name == "Ireland") {
             let con = confirm('是否进入展厅观看爱尔兰文化展?')
             if (con) {
-                this.node.setWorldPosition(new Vec3(971.01, 9.99, -18));
+                this.node.setWorldPosition(new Vec3(971.01, 9, -18));
             }
         }
         if (event.otherCollider.node.name == "backMain") {
             let con = confirm('是否返回主会场?')
             if (con) {
-                this.node.setWorldPosition(new Vec3(-60, 0, -270));
+                this.node.setWorldPosition(new Vec3(-60, -2, -270));
             }
         }
     }

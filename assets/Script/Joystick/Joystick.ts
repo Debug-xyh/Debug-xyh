@@ -190,6 +190,7 @@ export class Joystick extends Component {
         this._touchStartPos = undefined;
         this._value.set(0, 0);
         this.options?.onOperateEnd();
+        //触碰结束复原
         this.camera.eulerAngles = new Vec3(-7, 0, 0)
     }
 }

@@ -46,7 +46,7 @@ export class WeChat extends Component {
 
     }
     getUrlCode (): any {
-        // 截取url中的code方法
+        // 截取url中的code
         var url = location.search;
         var theRequest = new Object();
         if (url.indexOf("?") != -1) {
@@ -79,10 +79,6 @@ export class WeChat extends Component {
                 this.getWxCode()
             }
         }
-    }
-
-    onDestroy () {
-
     }
 }
 
